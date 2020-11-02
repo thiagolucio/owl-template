@@ -3,6 +3,7 @@
 - Bootstrap 5: https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/
 - Animatecss: https://animate.style/
 - Font Awesome: https://fontawesome.com/icons?d=gallery&m=free
+- Webpack: https://webpack.js.org/
 
 ### Ready to use :)
 
