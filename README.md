@@ -1,4 +1,4 @@
-# Template for Sites or Systems based on the Dracula theme using the Owl as a background.
+# Template for Sites or Systems based on the Dracula Color Scheme using the Owl as a background principal.
 
 - Bootstrap 5: https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/
 - Animatecss: https://animate.style/
